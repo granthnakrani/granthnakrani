@@ -112,8 +112,6 @@ to build practical projects and intelligent applications.
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=granthnakrani&bg_color=050A14&color=00BFFF&line=007BFF&point=00D9FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph" />
-
 </div>
 
 ---
