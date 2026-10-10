@@ -125,7 +125,8 @@ to build practical projects and intelligent applications.
 ## `06` // Achievements & Milestones
 
 <!-- Add verified achievements, hackathons, certifications and milestones here. -->
-
+```text
+Top 15 Team — IBM Bob AI Innovation Hackathon-Our team, Synora, secured a Top 15 finish with BOB — Autonomous Supply Chain Risk Intelligence.
 ---
 
 ## `07` // Connect With Me
