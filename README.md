@@ -9,7 +9,9 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080610,50:1B1030,100:6D28D9&text=GRANTH%20NAKRANI&fontColor=F5F0FF&fontSize=48&fontAlignY=42&desc=ENGINEERING%20INTELLIGENCE%20%7C%20AUTOMATING%20THE%20FUTURE&descSize=14&descAlignY=62&stroke=A78BFA&strokeWidth=1" alt="Granth Nakrani — AI, Automation and Innovation" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:05030A,50:160B28,100:35205B&text=GRANTH%20NAKRANI&fontColor=FFFFFF&fontSize=56&fontAlignY=40&fontAlign=50&desc=ENGINEERING%20INTELLIGENCE%20%7C%20AUTOMATING%20THE%20FUTURE&descSize=13&descAlignY=62&descColor=E9DDFF&stroke=A78BFA&strokeWidth=1&animation=fadeIn" alt="Granth Nakrani — AI, Automation and Innovation" />
+
 
 
 <br/>
