@@ -1,73 +1,64 @@
 
-<!-- ===================================================== -->
-<!-- GRANTh NAKRANI | GITHUB PROFILE README                 -->
-<!-- Theme: Black + Purple | AI / Automation / Innovation   -->
-<!-- ===================================================== -->
+<!-- ================================================== -->
+<!-- GRANTh NAKRANI | GitHub Profile README              -->
+<!-- Elegant dark theme | AI, Automation & Innovation   -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:080610,50:170D2D,100:35205B&text=GRANTH%20NAKRANI&fontColor=F5F0FF&fontSize=42&fontAlignY=42&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20WHAT'S%20NEXT&descSize=12&descAlignY=65&animation=fadeIn" alt="Granth Nakrani — Dark purple futuristic banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:090611,50:1B1030,100:352052&text=Granth%20Nakrani&fontColor=F5F0FF&fontSize=46&fontAlignY=42&desc=AI%20%7C%20AUTOMATION%20%7C%20INNOVATION&descSize=13&descAlignY=68&animation=fadeIn" alt="Granth Nakrani — AI, Automation and Innovation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Exploring+Automation+%26+Agentic+AI;Learning+Today.+Building+Tomorrow." alt="Animated profile introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=C4A7FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Exploring+Automation+%26+Agentic+AI;Building+Skills+for+Intelligent+Systems" alt="Animated introduction" />
 
 <br/><br/>
 
 <a href="https://github.com/granthnakrani">
-  <img src="https://img.shields.io/badge/GitHub-granthnakrani-120D1D?style=for-the-badge&logo=github&logoColor=C4A7FF" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-15101E?style=for-the-badge&logo=github&logoColor=C4A7FF" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-120D1D?style=for-the-badge&logo=googlegemini&logoColor=C4A7FF" alt="AI and ML" />
-<img src="https://img.shields.io/badge/Automation-In%20Progress-120D1D?style=for-the-badge&logo=probot&logoColor=C4A7FF" alt="Automation" />
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-15101E?style=for-the-badge&logo=linkedin&logoColor=C4A7FF" alt="LinkedIn" />
+</a>
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-15101E?style=for-the-badge&logo=leetcode&logoColor=C4A7FF" alt="LeetCode" />
+</a>
+<a href="YOUR_CODEFORCES_URL">
+  <img src="https://img.shields.io/badge/Codeforces-15101E?style=for-the-badge&logo=codeforces&logoColor=C4A7FF" alt="Codeforces" />
+</a>
 
 </div>
 
 ---
 
-## `01` — About Me
+## About Me
 
-Hey there! I'm **Granth Nakrani**, a Computer Engineering student at **CHARUSAT University — CSPIT**, currently in my third semester.
+Hello! I'm **Granth Nakrani**, a Computer Engineering student at **CHARUSAT University — CSPIT**, currently in my third semester.
 
-I'm passionate about technology and interested in the intersection of artificial intelligence, intelligent automation, and software engineering.
+I'm passionate about technology and curious about how artificial intelligence and automation can transform ideas into practical solutions.
 
-My goal is to grow into an AI/ML engineer who can build useful, intelligent systems and explore the potential of agentic AI.
+My long-term goal is to become an AI/ML engineer and explore intelligent, agent-driven systems that solve meaningful problems.
 
-```python
-class GranthNakrani:
-    def __init__(self):
-        self.role = "Computer Engineering Student"
-        self.university = "CHARUSAT University"
-        self.institute = "CSPIT"
-        self.semester = 3
+- 🎓 Computer Engineering student at CHARUSAT University, CSPIT
+- 🤖 Exploring AI, machine learning, automation, and agentic AI
+- 💻 Strengthening my programming and problem-solving fundamentals
+- ✨ Interested in building useful software and intelligent applications
 
-        self.interests = [
-            "Artificial Intelligence & Machine Learning",
-            "Intelligent Automation",
-            "Agentic AI",
-            "Software Engineering",
-            "Innovation & Problem Solving"
-        ]
-
-    def mindset(self):
-        return "Learn | Build | Experiment | Improve"
-```
-
-- Learning programming fundamentals and software development.
-- Exploring how AI can make everyday workflows smarter.
-- Interested in building practical solutions, not just writing code.
-- Working toward stronger problem-solving and engineering skills.
+I believe in continuous learning, thoughtful engineering, and creating technology with purpose.
 
 ---
 
-## `02` — Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Programming Languages
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html&theme=dark" alt="C, C++, Java, Python and HTML" />
 
-### Tools & Environment
+<br/><br/>
+
+**Tools & Development**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
 
@@ -75,31 +66,31 @@ class GranthNakrani:
 
 ---
 
-## `03` — Currently Exploring
+## Currently Learning
 
 <div align="center">
 
 | Area | Focus |
-|:--|:--|
-| **Programming** | C, C++, Java and Python |
-| **Core CS** | Object-oriented programming and problem solving |
-| **AI / ML** | Building foundations in intelligent systems |
-| **Automation** | Exploring workflow automation |
-| **Agentic AI** | Learning about AI agents and tool-based workflows |
+|:---|:---|
+| Programming | C, C++, Java and Python |
+| Computer Science | OOP, data structures and algorithms |
+| Artificial Intelligence | Exploring AI and machine learning fundamentals |
+| Automation | Understanding automated workflows |
+| Agentic AI | Exploring intelligent agents and tool-based systems |
 
 </div>
 
-My approach is simple: understand the fundamentals, experiment with ideas, and turn what I learn into practical skills.
+My approach is to build strong fundamentals, learn consistently, and apply new concepts through practical work.
 
 ---
 
-## `04` — GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=granthnakrani&show_icons=true&hide_border=true&bg_color=0D0A16&title_color=C4A7FF&text_color=E6DFF5&icon_color=A78BFA" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=granthnakrani&layout=compact&hide_border=true&bg_color=0D0A16&title_color=C4A7FF&text_color=E6DFF5" alt="Top programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=granthnakrani&layout=compact&hide_border=true&bg_color=0D0A16&title_color=C4A7FF&text_color=E6DFF5" alt="Most used programming languages" />
 
 <br/><br/>
 
@@ -109,39 +100,44 @@ My approach is simple: understand the fundamentals, experiment with ideas, and t
 
 ---
 
-## `05` — Connect With Me
+## Featured Projects
 
-<div align="center">
-
-I'm always open to connecting with fellow developers, learning from others, and exploring interesting ideas.
-
-<a href="https://github.com/granthnakrani">
-  <img src="https://img.shields.io/badge/GitHub-120D1D?style=for-the-badge&logo=github&logoColor=C4A7FF" alt="GitHub" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-120D1D?style=for-the-badge&logo=linkedin&logoColor=C4A7FF" alt="LinkedIn" />
-</a>
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-120D1D?style=for-the-badge&logo=leetcode&logoColor=C4A7FF" alt="LeetCode" />
-</a>
-<a href="YOUR_CODEFORCES_URL">
-  <img src="https://img.shields.io/badge/Codeforces-120D1D?style=for-the-badge&logo=codeforces&logoColor=C4A7FF" alt="Codeforces" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-120D1D?style=for-the-badge&logo=gmail&logoColor=C4A7FF" alt="Email" />
-</a>
-
-</div>
+<!-- Add selected projects here when ready. -->
 
 ---
 
+## Achievements
+
+<!-- Add verified achievements, certifications and milestones here. -->
+
+---
+
+## Connect With Me
+
 <div align="center">
 
-### `THINK BEYOND CODE.`
+I'm always happy to connect with fellow learners, developers, and innovators.
 
-*Build intelligent systems. Automate with purpose. Innovate continuously.*
+<a href="https://github.com/granthnakrani">
+  <img src="https://img.shields.io/badge/GitHub-15101E?style=for-the-badge&logo=github&logoColor=C4A7FF" alt="GitHub" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-15101E?style=for-the-badge&logo=linkedin&logoColor=C4A7FF" alt="LinkedIn" />
+</a>
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-15101E?style=for-the-badge&logo=leetcode&logoColor=C4A7FF" alt="LeetCode" />
+</a>
+<a href="YOUR_CODEFORCES_URL">
+  <img src="https://img.shields.io/badge/Codeforces-15101E?style=for-the-badge&logo=codeforces&logoColor=C4A7FF" alt="Codeforces" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-15101E?style=for-the-badge&logo=gmail&logoColor=C4A7FF" alt="Email" />
+</a>
+
+<br/><br/>
+
+*Learning with curiosity. Building with purpose. Innovating for tomorrow.*
 
 <img src="https://komarev.com/ghpvc/?username=granthnakrani&style=flat-square&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
 </div>
-
