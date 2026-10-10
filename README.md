@@ -27,9 +27,6 @@
 
 ## `01` // About Me
 
-```bash
-$ whoami
-```
 
 Hey! I'm **Granth Nakrani**, a Computer Engineering student at
 **CHARUSAT University — CSPIT**.
@@ -64,9 +61,6 @@ and improving one line of code at a time.
 
 ## `02` // Tech Stack
 
-```bash
-$ ls ./technologies
-```
 
 <div align="center">
 
