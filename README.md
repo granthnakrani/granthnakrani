@@ -148,13 +148,6 @@ Let's connect.
 
 <div align="center">
 
-```text
-> THINK DEEPLY.
-> BUILD INTELLIGENTLY.
-> AUTOMATE THE ORDINARY.
-> INNOVATE CONSTANTLY.
-```
-
 <img src="https://komarev.com/ghpvc/?username=granthnakrani&style=flat-square&color=007BFF&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
 <br/>
