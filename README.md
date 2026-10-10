@@ -29,7 +29,7 @@
 
 ---
 
-## `01` // About Me
+## `01` 🛠️ About Me
 
 
 Hey! I'm **Granth Nakrani**, a Computer Engineering student at
@@ -63,7 +63,7 @@ and improving one line of code at a time.
 
 ---
 
-## `02` // Tech Stack
+## `02` 💻 Tech Stack
 
 
 <div align="center">
@@ -83,7 +83,7 @@ and improving one line of code at a time.
 
 ---
 
-## `03` // Currently Learning
+## `03` ⚡Currently Learning
 
 ```text
 [ACTIVE]  Programming & Data Structures
@@ -98,7 +98,7 @@ to build practical projects and intelligent applications.
 
 ---
 
-## `04` // GitHub Analytics
+## `04` 📈 GitHub Analytics
 
 <div align="center">
 
@@ -116,20 +116,20 @@ to build practical projects and intelligent applications.
 
 ---
 
-## `05` // Featured Projects
+## `05`🛠️ Featured Projects
 
 <!-- Add your best repositories here when ready. -->
 
 ---
 
-## `06` // Achievements & Milestones
+## `06` 🏆 Achievements & Milestones
 
 <!-- Add verified achievements, hackathons, certifications and milestones here. -->
 ```text
-Top 15 Team — IBM Bob AI Innovation Hackathon-Our team, Synora, secured a Top 15 finish with BOB — Autonomous Supply Chain Risk Intelligence.
+- Top 15 Team — IBM Bob AI Innovation Hackathon-Our team, Synora, secured a Top 15 finish with BOB — Autonomous Supply Chain Risk Intelligence.
+```
 ---
-
-## `07` // Connect With Me
+## `07` 🌐 Connect With Me
 
 <div align="center">
 
